@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/plugins.png" alt="Warthawg Gaming Plugins Banner">
+</p>
+
 # Warthawg Gaming Plugins
 
 Collection of Minecraft Java plugins, shared utilities, APIs, and development resources for Warthawg Gaming projects.
