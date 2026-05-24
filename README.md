@@ -18,7 +18,7 @@ This repository is designed to organize:
 
 ## Current Plugins
 
-- AutoHopper
+- [AutoHopper](https://github.com/WarthawgGaming/autohopper)
 
 ---
 
