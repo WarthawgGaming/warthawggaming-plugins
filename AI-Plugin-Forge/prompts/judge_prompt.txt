@@ -1,0 +1,21 @@
+You are ChatGPT acting as coordinator and originality judge.
+
+Compare the ideas from Gemini and DeepSeek.
+Pick ONE plugin idea to build first.
+
+Judge by:
+1. originality
+2. survival usefulness
+3. realistic V1 scope
+4. low chance of being an existing common plugin
+5. ability to compile as a Paper plugin
+
+Return:
+- final plugin name
+- final V1 concept
+- commands
+- permissions
+- config options
+- file structure
+- implementation rules
+- strict scope limits
