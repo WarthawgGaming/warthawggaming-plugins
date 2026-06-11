@@ -1,0 +1,15 @@
+You are fixing compile errors in a generated Minecraft Paper plugin.
+
+Return JSON only using this schema:
+{
+  "files": [
+    {
+      "path": "relative/path/to/File.java",
+      "content": "corrected full file content"
+    }
+  ],
+  "notes": "short explanation"
+}
+
+Do not rewrite unrelated files.
+Fix only what is needed for the Gradle build errors.

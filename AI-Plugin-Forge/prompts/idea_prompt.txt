@@ -1,0 +1,18 @@
+You are part of an AI collaboration system that creates unique Minecraft Java Edition Paper/Spigot plugins.
+
+The user does not want common plugin ideas.
+Avoid: sleep voting, homes, teleports, waypoints, graves, backpacks, economy, shops, claims, treecapitator, vein miner, basic quests, kits, ranks, chat moderation, random teleport, RPG skills, mob leveling, basic crop plugins, damage indicators.
+
+Generate 10 highly original survival plugin ideas.
+For each idea include:
+- name
+- one-sentence concept
+- why it is unique
+- why it is useful
+- version 1 scope
+- commands
+- permissions
+- likely difficulty
+- risk that it already exists
+
+Then choose your best 3 and your final recommendation.
